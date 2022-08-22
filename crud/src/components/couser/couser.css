@@ -1,0 +1,37 @@
+p{
+    padding-top: 2px;
+    font-weight: 600;
+}
+
+.title{
+    border: none;
+    height: 30px;
+    width: 125px;
+}
+
+.box{
+    border: none;
+    height: 30px;
+    width: 260px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.dob{
+    margin-left: 10px;
+    font-weight: 500;
+}
+
+.gender{
+    border: none;
+    height: 30px;
+    width: 125px;
+    margin-left: 15px;
+}
+
+.relation{
+    border: none;
+    height: 30px;
+    width: 125px;
+    margin-left: 15px;
+}

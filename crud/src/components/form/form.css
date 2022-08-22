@@ -1,0 +1,122 @@
+.form{
+    /* display: flex; */
+    margin-top: 25px;
+}
+
+.topBtn{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 40px;
+}
+
+.inputForm{
+    margin-top: 15px;
+    height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: gainsboro;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.first{
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-left: 25px;
+    height: 40px;
+    background-color: rgb(233, 230, 230);
+    
+}
+
+.visa{
+    border: none;
+    height: 30px;
+    width: 125px;
+}
+
+.dept{
+    margin-left: 25px;
+}
+
+.return{
+    margin-left: 25px;
+}
+
+.date{
+    height: 30px;
+    border: none;
+    margin-left: 5px;
+    width: 125px;
+    padding-left: 2px;
+}
+
+.second{
+    border-radius: 15px;
+    margin-top: 10px;
+    padding-left: 25px;
+    height: auto;
+    background-color: rgb(233, 230, 230);
+}
+
+p{
+    padding-top: 2px;
+    font-weight: 600;
+}
+
+.title{
+    border: none;
+    height: 30px;
+    width: 125px;
+}
+
+.box{
+    border: none;
+    height: 30px;
+    width: 260px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.dob{
+    margin-left: 10px;
+    font-weight: 500;
+}
+
+.gender{
+    border: none;
+    height: 30px;
+    width: 125px;
+    margin-left: 15px;
+}
+
+.relation{
+    border: none;
+    height: 30px;
+    width: 125px;
+    margin-left: 15px;
+}
+
+.btn2{
+    margin-top: 15px;
+    height: 35px;
+    border: none;
+    background-color: rgb(89, 243, 89);
+    width: 125px;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+.save{
+   
+        margin-top: 15px;
+        height: 35px;
+        border: none;
+        background-color: rgb(248, 119, 96);
+        width: 125px;
+        cursor: pointer;
+        float: right;
+        margin-right: 25px;
+    
+}
